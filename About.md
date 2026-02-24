@@ -9,6 +9,7 @@ This makes the architecture a future‑ready foundation for memory solutions tha
 
 The project is intended for research institutions, semiconductor manufacturers, sustainability‑focused technology initiatives, and organizations exploring new directions in memory technology.  
 Luminarit‑GreenRAM V2 represents a commitment to responsible innovation, uniting performance with ecological sustainability.
+
 ---
 DE:
 ## Über dieses Projekt
