@@ -46,6 +46,10 @@ For licensing, collaboration, research inquiries or commercial use:
 ## 📂 Repository Structure
 - [Description.md](Description.md)
 - [Revenue‑Sharing-License.pdf](Revenue‑Sharing-License.pdf)
+- [Luminarit‑GreenRAM-V2_EN.pdf](Luminarit‑GreenRAM-V2_EN.pdf)
+- [GreenRAM_Simulation_EN.pdf](GreenRAM_Simulation_EN.pdf)
+- [LICENSE.md](LICENSE.md)
+- [contakt.md](contakt.md)
 ---
 
 ## 🌍 Mission Statement
@@ -104,6 +108,10 @@ Für Lizenzierung, Kooperationen, Forschungsanfragen oder kommerzielle Nutzung:
 ## 📂 Repository‑Struktur
 - [Description.md](Description.md)
 - [Gewinnbeteiligungslizenz.pdf](Gewinnbeteiligungslizenz.pdf)
+- [Luminarit‑GreenRAM-V2_DE.pdf](Luminarit‑GreenRAM-V2_DE.pdf)
+- [GreenRAM_Simulation_DE.pdf](GreenRAM_Simulation_DE.pdf)
+- [LICENSE.md](LICENSE.md)
+- [contakt.md](contakt.md)
 ---
 ## 🌍 Leitgedanke
 
