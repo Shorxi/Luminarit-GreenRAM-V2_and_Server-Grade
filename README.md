@@ -27,8 +27,8 @@ Use of **Luminarit‑GreenRAM V2** is permitted,
 **but requires fair revenue sharing** to fund future sustainable technology development.
 
 Full license text:  
-See **[Zur Lizenz (LICENSE.md)](LICENSE.md)
-**
+See [Zur Lizenz (LICENSE.md)](LICENSE.md)
+
 
 ---
 
@@ -85,8 +85,8 @@ Die Nutzung von **Luminarit‑GreenRAM V2** ist erlaubt,
 nachhaltiger Technologieprojekte voraus.
 
 Vollständiger Lizenztext:  
-Siehe **[Zur Lizenz (LICENSE.md)](LICENSE.md)
-**
+Siehe [Zur Lizenz (LICENSE.md)](LICENSE.md)
+
 
 ---
 
