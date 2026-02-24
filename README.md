@@ -44,7 +44,7 @@ For licensing, collaboration, research inquiries or commercial use:
 ---
 
 ## 📂 Repository Structure
-
+[Description.md](Description.md)
 
 ---
 
@@ -102,7 +102,7 @@ Für Lizenzierung, Kooperationen, Forschungsanfragen oder kommerzielle Nutzung:
 ---
 
 ## 📂 Repository‑Struktur
-
+[Description.md](Description.md)
 ---
 ## 🌍 Leitgedanke
 
