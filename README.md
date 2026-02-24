@@ -102,8 +102,8 @@ Für Lizenzierung, Kooperationen, Forschungsanfragen oder kommerzielle Nutzung:
 ---
 
 ## 📂 Repository‑Struktur
-[Description.md](Description.md)
-[Gewinnbeteiligungslizenz.pdf](Gewinnbeteiligungslizenz.pdf)
+- [Description.md](Description.md)
+- [Gewinnbeteiligungslizenz.pdf](Gewinnbeteiligungslizenz.pdf)
 ---
 ## 🌍 Leitgedanke
 
