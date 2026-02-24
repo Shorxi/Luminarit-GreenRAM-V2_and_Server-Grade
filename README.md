@@ -45,7 +45,7 @@ For licensing, collaboration, research inquiries or commercial use:
 
 ## 📂 Repository Structure
 [Description.md](Description.md)
-
+[Revenue‑Sharing License.pdf](Revenue‑Sharing License.pdf)
 ---
 
 ## 🌍 Mission Statement
@@ -103,6 +103,7 @@ Für Lizenzierung, Kooperationen, Forschungsanfragen oder kommerzielle Nutzung:
 
 ## 📂 Repository‑Struktur
 [Description.md](Description.md)
+[Gewinnbeteiligungslizenz.pdf](Gewinnbeteiligungslizenz.pdf)
 ---
 ## 🌍 Leitgedanke
 
