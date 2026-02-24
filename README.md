@@ -7,7 +7,7 @@ high‑speed operation, full CMOS compatibility, and radically reduced ecologica
 The architecture eliminates refresh cycles, avoids rare earth materials,  
 and enables manufacturing on existing 65–90 nm DUV fabs.
 
-- [Why-GreenRAM?](Why-GreenRAM.md)
+- [warum-GreenRAM?](Why-GreenRAM.md)
 
 ---
 
