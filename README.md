@@ -44,8 +44,8 @@ For licensing, collaboration, research inquiries or commercial use:
 ---
 
 ## 📂 Repository Structure
-*[Description.md](Description.md)*
-[Revenue‑Sharing License.pdf](Revenue‑Sharing License.pdf)
+- **Project Description:**[Description.md](Description.md)
+- **Revenue‑Sharing License:**[Revenue‑Sharing License.pdf](Revenue‑Sharing License.pdf)
 ---
 
 ## 🌍 Mission Statement
