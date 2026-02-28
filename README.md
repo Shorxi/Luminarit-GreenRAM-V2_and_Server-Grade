@@ -13,7 +13,7 @@ and enables manufacturing on existing 65–90 nm DUV fabs.
 
 ## 📘 Key Features
 
-- ⚡ **Luminarit‑GreenRAM V2 <10ns | GreenRAM_V2.1–Server‑Grade <5ns latency**  
+- ⚡ **Luminarit‑GreenRAM V2 <10ns | GreenRAM_V2.1–Server‑Grade <8ns latency**  
 - 🔋 **0 W idle power (no refresh)**  
 - 🌱 **0% rare earth elements**  
 - 🏭 **Manufacturable on existing 200/300 mm fabs**  
@@ -80,7 +80,7 @@ und kann in bestehenden 65–90 nm DUV‑Fabs gefertigt werden.
 
 ## 🚀 Hauptmerkmale
 
-- ⚡ **Luminarit‑GreenRAM V2 <10ns | GreenRAM_V2.1–Server‑Grade <5ns Latenz**  
+- ⚡ **Luminarit‑GreenRAM V2 <10ns | GreenRAM_V2.1–Server‑Grade <8ns Latenz**  
 - 🔋 **0 W Idle‑Verbrauch (kein Refresh)**  
 - 🌱 **0 % seltene Erden**  
 - 🏭 **Fertigung auf bestehenden 200/300‑mm‑Fabs möglich**  
