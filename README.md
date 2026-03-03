@@ -31,7 +31,7 @@ Use of **Luminarit‑GreenRAM V2 & Luminarit‑GreenRAM_V2.1–Server‑Grade** 
 Full license text:  
 - See [LICENSE](LICENSE.md)
 - See [Exclusivity and License Declaration Google Luminarit-GreenRAM V2.1–Server‑Grade](Exclusivity-and_License-Declaration.pdf)
-- See [Addition Google]()
+- See [Addition Google](Technical_Dossier_EN.pdf)
 ---
 
 ## 📬 Contact
