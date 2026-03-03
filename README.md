@@ -97,8 +97,8 @@ Die Nutzung von **Luminarit‑GreenRAM V2 & Luminarit‑GreenRAM_V2.1–Server�
 nachhaltiger Technologieprojekte voraus.
 
 Vollständiger Lizenztext:  
--Siehe [LICENSE](LICENSE.md)
--Siehe [LICENSE](Exklusivitäts-und_Lizenz-Erklärung.pdf)
+- Siehe [LICENSE](LICENSE.md)
+- Siehe [LICENSE](Exklusivitäts-und_Lizenz-Erklärung.pdf)
 
 ---
 
