@@ -44,15 +44,25 @@ For licensing, collaboration, research inquiries or commercial use:
 **Role:** Architect & Originator of the Luminarit‑GreenRAM V2 & Luminarit‑GreenRAM_V2.1–Server‑Grade & GreenRAM_V2.1_UHS Technology
 
 ---
-
-## 📂 Repository Structure
+## 📂 New Repository Structure GreenRAM_V2.1_UHS
 - [Description](Description.md)
-- [Revenue‑Sharing-License](Revenue‑Sharing-License.pdf)
-- [Luminarit‑GreenRAM-V2_EN](Luminarit‑GreenRAM-V2_EN.pdf)
-- [Luminarit‑GreenRAM_V2.1–Server‑Grade_EN](Luminarit‑GreenRAM_V2.1–Server‑Grade_EN.pdf)
-- [GreenRAM_Simulation_EN](GreenRAM_Simulation_EN.pdf)
-- [Technical data](GreenRAM_V2.–Server‑Grade_Simulation_Data_EN.pdf)
-- [(Server-Grade)_Simulation_EN]((Server-Grade)_Simulation_EN.pdf)
+- [Supplementary Data Sheet](GreenRAM_V2.1_UHS/Supplementary_Data_Sheet.pdf)
+- [Technical Data Sheet](GreenRAM_V2.1_UHS/Optimized_Data_Sheet.pdf)
+- [(Server-Grade) Simulation UHS](GreenRAM_V2.1_UHS/(Server-Grade)_Simulation_UHS_EN.pdf)
+---
+## 📂 Repository‑Struktur GreenRAM_V2.1–Server‑Grade
+- [Description](Description.md)
+- [Luminarit‑GreenRAM V2.1–Server‑Grade](Luminarit‑GreenRAM_V2.1–Server‑Grade_EN.pdf)
+- [GreenRAM_V2.–Server‑Grade Simulation Data](GreenRAM_V2.–Server‑Grade_Simulation_Data_EN.pdf)
+- [(Server-Grade) Simulation]((Server-Grade)_Simulation_EN.pdf)
+---
+## 📂 Repository‑Struktur Luminarit‑GreenRAM-V2
+- [Description](Description.md)
+- [Luminarit‑GreenRAM-V2](Luminarit‑GreenRAM-V2_EN.pdf)
+- [GreenRAM Simulation](GreenRAM_Simulation_EN.pdf)
+
+---
+## 📂 Repository‑Struktur
 - [LICENSE](LICENSE.md)
 - [contact](contact.md)
 - [About](About.md)
@@ -112,15 +122,24 @@ Für Lizenzierung, Kooperationen, Forschungsanfragen oder kommerzielle Nutzung:
 **Rolle:** Architekt & Urheber der Luminarit‑GreenRAM V2 & Luminarit‑GreenRAM_V2.1–Server‑Grade & GreenRAM_V2.1_UHS Technologie
 
 ---
-
-## 📂 Repository‑Struktur
+## 📂 Neue Repository‑Struktur GreenRAM_V2.1_UHS
 - [Description](Description.md)
-- [Gewinnbeteiligungslizenz](Gewinnbeteiligungslizenz.pdf)
-- [Luminarit‑GreenRAM-V2_DE](Luminarit‑GreenRAM-V2_DE.pdf)
-- [Luminarit‑GreenRAM_V2.1–Server‑Grade_DE](Luminarit‑GreenRAM_V2.1–Server‑Grade_DE.pdf)
-- [GreenRAM_Simulation_DE](GreenRAM_Simulation_DE.pdf)
+- [Ergänzungs-Datenblatt](GreenRAM_V2.1_UHS/Ergänzungs-Datenblatt.pdf)
+- [Technisches Datenblatt](GreenRAM_V2.1_UHS/Optimiertes_Datenblatt.pdf)
+- [(Server-Grade) Simulation_UHS](GreenRAM_V2.1_UHS/(Server-Grade)_Simulation_UHS_DE.pdf)
+---
+## 📂 Repository‑Struktur GreenRAM_V2.1–Server‑Grade
+- [Description](Description.md)
+- [Luminarit‑GreenRAM V2.1–Server‑Grade](Luminarit‑GreenRAM_V2.1–Server‑Grade_DE.pdf)
 - [Technische Daten](GreenRAM_V2.1–Server‑Grade_Simulationsdaten_DE.pdf)
-- [(Server-Grade)_Simulation_DE]((Server-Grade)_Simulation_DE.pdf)
+- [(Server-Grade) Simulation]((Server-Grade)_Simulation_DE.pdf)
+---
+## 📂 Repository‑Struktur Luminarit‑GreenRAM-V2
+- [Description](Description.md)
+- [Luminarit‑GreenRAM-V2](Luminarit‑GreenRAM-V2_DE.pdf)
+- [GreenRAM Simulation](GreenRAM_Simulation_DE.pdf)
+---
+## 📂 Repository‑Struktur
 - [LICENSE](LICENSE.md)
 - [contact](contact.md)
 - [About](About.md)
